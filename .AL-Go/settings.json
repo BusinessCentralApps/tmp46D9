@@ -1,7 +1,9 @@
-{
+﻿{
     "country":  "us",
     "appFolders":  [
-    ],
+                       "My App"
+                   ],
     "testFolders":  [
-    ]
+                        "My App.Test"
+                    ]
 }
